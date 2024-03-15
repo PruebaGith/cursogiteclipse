@@ -10,4 +10,7 @@ para el 2
 Cambio olvidado
 
 
-añado para subir al servidor 
+añado para subir al servidor
+
+
+otra cambio pero sin push 
