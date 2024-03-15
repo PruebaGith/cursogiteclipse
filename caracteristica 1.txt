@@ -11,6 +11,3 @@ Cambio olvidado
 
 
 añado para subir al servidor
-
-
-otra cambio pero sin push 
